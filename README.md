@@ -16,6 +16,8 @@ iv) On click of Next button toast with the message : "Details submitted successf
 
 v) The activity is dismissed on the click of "I don't have a PAN" text.
 
+vi) ALso, have followed MVVM Architecture.
+
 
 
 Apk link :- 
