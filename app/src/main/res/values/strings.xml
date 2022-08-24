@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">epiFiProject</string>
+    <string name="view_text">First of the few step to set\nyou up with a Bank Account</string>
+    <string name="pan_view_text">PAN NUMBER</string>
+    <string name="birth_day_text">BIRTHDAY</string>
+    <string name="details_text">Providing PAN &amp; Date of Birth helps us find and fetch your KYC from a central registry by the Government of India. <b> <font color='purple'> <![CDATA[Learn more ]]> </font> </b></string>
+    <string name="next">NEXT</string>
+    <string name="dont_have_pan">I don\'t have a PAN</string>
+    <string name="error_pan">Please enter a valid PAN</string>
+</resources>
